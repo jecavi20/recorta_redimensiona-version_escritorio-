@@ -10,7 +10,7 @@
 
 ✅ Permite comprimir la imagen, para reducir el tamaño
 
-## Tecnologías
+## 📌 Tecnologías
 - Python 3.10.7
 - altgraph 0.17.5
 - packaging 26.1
@@ -21,11 +21,11 @@
 - pywin32-ctypes 0.2.3
 
 
-## Instalación
+## 📌 Instalación
 1. Clonar o descargar el repositorio
 2. Tener instalado Python
 3. Aplicar el comando pip install -r requirements.txt
 4. Ejecutar el archivo app.py
 
-## Autor
+## 📌 Autor
 - jecavi
